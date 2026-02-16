@@ -1,0 +1,33 @@
+{
+    "title": "GrapeCare Advisor",
+    "subtitle": "Upload your grape leaf image to check for disease.",
+    "analyzeButton": "Analyze Image",
+    "analysisResult": "Analysis Results",
+    "diseaseLabel": "Disease Detected",
+    "pieLabelHealthy": "Healthy",
+    "pieLabelDiseased": "Diseased",
+    "pieLabelOther": "Other",
+    "errorNoFile": "No file uploaded.",
+    "errorNoSelection": "No file selected.",
+    
+    "fileButton": "Choose File",
+    "fileStatus": "No file chosen",
+
+    "mainTitle": "Grape Disease Detector",
+    "mainSubtitle": "Upload an image of grape leaves to detect diseases and get treatment recommendations.",
+    "uploadTitle": "Upload Grape Leaf Image",
+    "fileClick": "Click to select an image",
+
+    "commonDiseases": "Common Grape Diseases",
+    "blackRotDesc": "Fungal disease causing dark spots on leaves and fruit rot.",
+    "escaDesc": "Complex disease causing leaf discoloration and wood decay.",
+    "healthyDesc": "Healthy grape leaves should be vibrant green.",
+    "leafBlightDesc": "Bacterial disease causing irregular brown patches.",
+    
+    "askAssistant": "Ask GrapeCare Assistant",
+
+    "healthy": "Healthy",
+    "black_rot": "Black Rot",
+    "esca": "ESCA",
+    "leaf_blight": "Leaf Blight"
+}
